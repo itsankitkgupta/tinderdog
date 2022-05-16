@@ -1,2 +1,1 @@
-# tinderdog
-A social media website for puppies
+TinDog Starting Files
